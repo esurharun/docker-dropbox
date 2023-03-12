@@ -1,5 +1,5 @@
 # Based on Ubuntu 21.10
-FROM ubuntu:20.04
+FROM ubuntu:23.04
 
 # Maintainer
 LABEL maintainer "Harun Esur <harun.esur@sceptive.com>"
